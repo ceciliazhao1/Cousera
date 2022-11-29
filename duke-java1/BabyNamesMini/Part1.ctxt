@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ \u5728\u8FD9\u91CC\u7ED9\u51FA\u5BF9\u7C7B\ Part1\ \u7684\u63CF\u8FF0\u3002\n\ \n\ @\u4F5C\u8005\uFF08\u4F60\u7684\u540D\u5B57\uFF09\n\ @\u7248\u672C\uFF08\u4E00\u4E2A\u7248\u672C\u53F7\u6216\u8005\u4E00\u4E2A\u65E5\u671F\uFF09\n
+comment1.params=
+comment1.target=void\ test()
+comment10.params=
+comment10.target=void\ test3()
+comment11.params=year\ name\ gender
+comment11.target=int\ getTotalBirthsRankedHigher(int,\ java.lang.String,\ java.lang.String)
+comment2.params=parser
+comment2.target=int\ totalbirth(org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=void\ test4()
+comment4.params=year\ name\ gender
+comment4.target=int\ getRank(int,\ java.lang.String,\ java.lang.String)
+comment5.params=year\ rank\ gender
+comment5.target=java.lang.String\ getName(int,\ int,\ java.lang.String)
+comment6.params=name\ year\ newyear\ gender
+comment6.target=void\ whatIsNameInYear(java.lang.String,\ int,\ int,\ java.lang.String)
+comment7.params=name\ gender
+comment7.target=int\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ test2()
+comment9.params=name\ gender
+comment9.target=double\ getAverageRank(java.lang.String,\ java.lang.String)
+numComments=12
